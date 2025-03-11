@@ -1,0 +1,36 @@
+
+.topdiv{
+background-color:#000000;
+color:#800080;
+font-size:32px;
+}
+.topdil{
+	background-color:#800080;
+	color:#0c090a;
+	font-size:32px;
+}
+.topdiq{
+	background-color:#ffa500;
+	color:#fff;
+	font-size:32px;
+}
+.topdis{
+	background-color:#add8e6;
+	color:#fff;
+	font-size:32px;
+}
+.topdik{
+	background-color:#00ffff;
+	color:#fff;
+	font-size:32px;
+}
+.topdiz{
+	background-color:#808080;
+	color:#fff;
+	font-size:32px;
+}
+.btn-soccer {
+  color: #3366ff;
+  background-color: #0000ff;
+  border-color: #007bff;
+}
